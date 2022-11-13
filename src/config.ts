@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'What I Do - Luis Betancourt'
 export const SITE_DESCRIPTION = 'A currated list of what I use in my workflow'
-export const HOMEPAGE_URL = 'https:www.luisbetancourt.dev'
+export const HOMEPAGE_URL = 'https:www.luisbetancourt.dev/'
